@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "StoreConnectionString": "server=(localdb)\\ProjectsV13;Database=OnlineStoreDb;Integrated Security=true;MultipleActiveResultSets=true"
+  }
+}

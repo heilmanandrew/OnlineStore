@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 0,
+    "Price": 999.99,
+    "Manufacturer": "HP",
+    "Rating": 4.0,
+    "Description": "Laptop",
+    "ArtId": "laptop1"
+  },
+  {
+    "Id": 0,
+    "Price": 899.99,
+    "Manufacturer": "Dell",
+    "Rating": 3.8,
+    "Description": "Laptop",
+    "ArtId": "laptop2"
+  },
+
+  {
+    "Id": 0,
+    "Price": 799.99,
+    "Manufacturer": "Acer",
+    "Rating": 2.3,
+    "Description": "Laptop",
+    "ArtId": "laptop3"
+  },
+
+  {
+    "Id": 0,
+    "Price": 749.99,
+    "Manufacturer": "Sony",
+    "Rating": 1.5,
+    "Description": "Laptop",
+    "ArtId": "laptop4"
+  },
+
+  {
+    "Id": 0,
+    "Price": 849.99,
+    "Manufacturer": "Apple",
+    "Rating": 3.9,
+    "Description": "Laptop",
+    "ArtId": "laptop5"
+  },
+
+  {
+    "Id": 0,
+    "Price": 599.99,
+    "Manufacturer": "Alienware",
+    "Rating": 3.2,
+    "Description": "Laptop",
+    "ArtId": "laptop6"
+  },
+
+  {
+    "Id": 0,
+    "Price": 699.99,
+    "Manufacturer": "Samsung",
+    "Rating": 4.3,
+    "Description": "Laptop",
+    "ArtId": "laptop7"
+  },
+
+  {
+    "Id": 0,
+    "Price": 399.99,
+    "Manufacturer": "Lenovo",
+    "Rating": 4.4,
+    "Description": "Laptop",
+    "ArtId": "laptop8"
+  }
+]
